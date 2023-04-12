@@ -17,7 +17,7 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/dog-images.git
+   git clone https://github.com/DFanso/Random-dog-image-generator.git
 
 2. Change into the project directory: 
    cd dog-images
