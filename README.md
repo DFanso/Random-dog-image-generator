@@ -20,8 +20,8 @@ To run the project locally, follow these steps:
    git clone https://github.com/DFanso/Random-dog-image-generator.git
 
 2. Change into the project directory: 
- ```bash
+   ```bash
       cd dog-images
- ```
+   ```
 
 3. Open the index.html file in your favorite web browser.
