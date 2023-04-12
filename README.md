@@ -21,6 +21,7 @@ To run the project locally, follow these steps:
 
 2. Change into the project directory: 
  ```bash
-   cd dog-images
+      cd dog-images
+ ```
 
 3. Open the index.html file in your favorite web browser.
