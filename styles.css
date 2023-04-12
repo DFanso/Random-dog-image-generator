@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+button {
+    font-size: 1.2em;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#output {
+    margin-top: 20px;
+}
+
+#dogImage {
+    max-width: 100%;
+    height: auto;
+}
